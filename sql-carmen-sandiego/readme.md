@@ -77,9 +77,7 @@ Again, be sure to grab the .sql file from the [starter-code](starter-code/world.
 
 Use the clues.sql file to write in the SQL queries that correspond with each clue and tell us where she's heading at the bottom:
 
-<p align="center">
-  <img src ="https://gph.is/g/4Ajr9kq">
-</p>
+![](http://i.giphy.com/13n8txR8c9UDHG.gif)
 
 
 ## Additional Resources
